@@ -5,9 +5,9 @@ metadata:
   openclaw:
     requires:
       bins: []
-    homepage: https://github.com/hermes-agent/cross-agent-mailbox
+    homepage: https://github.com/AmeyLover/cross-agent-mailbox
     install:
-      localPath: https://github.com/hermes-agent/cross-agent-mailbox.git
+      localPath: https://github.com/AmeyLover/cross-agent-mailbox.git
 ---
 
 # 📬 Cross-Agent Mailbox - 文件信箱通信
